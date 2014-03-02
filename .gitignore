@@ -215,3 +215,4 @@ pip-log.txt
 .mr.developer.cfg
 .idea/.name
 .idea/Learn-Python-Public-Data-Hacking.iml
+.idea/encodings.xml
