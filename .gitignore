@@ -216,3 +216,8 @@ pip-log.txt
 .idea/.name
 .idea/Learn-Python-Public-Data-Hacking.iml
 .idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
